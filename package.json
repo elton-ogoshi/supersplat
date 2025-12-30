@@ -24,7 +24,7 @@
     "devDependencies": {
         "@playcanvas/eslint-config": "2.1.0",
         "@playcanvas/pcui": "5.4.1",
-        "@playcanvas/supersplat-viewer": "1.10.2",
+        "@playcanvas/supersplat-viewer": "file:../supersplat-viewer",
         "@rollup/plugin-alias": "6.0.0",
         "@rollup/plugin-image": "3.0.3",
         "@rollup/plugin-json": "6.1.0",
